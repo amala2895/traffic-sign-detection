@@ -1,6 +1,7 @@
 # traffic-sign-detection
 Traffic Sign Detection using CNN
 
+Augmentation was done by applying shear, translation and rotation
 
 # Convolution Training Network
 Layer 1 CNN
